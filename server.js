@@ -15,7 +15,7 @@ app.use(bodyParser.json());
 app.use(cors());
 app.use(morgan('combined'));
 
-app.use('/banana', banana);
+app.use('/api/banana', banana);
 
 const port = process.env.PORT || serverPort;
 
