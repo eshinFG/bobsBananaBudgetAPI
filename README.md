@@ -14,11 +14,14 @@ npm version 6.4.1+
 3. npm install
 4. node server.js
 
+OPTIONAL: Download Bob's Banana Budget App here - https://github.com/eshinFG/bobsBananaBudgetAPP
+Follow directions to run the web App.
+
 If you're not using Bob's Banana Budget App, you can access the api by using your favorite API tool.
 
 Once the Node/Express API is being served to localhost:8080. You can send a post request to 
 
-http://localhost:8080/banana
+http://localhost:8080/api/banana/budget
 
 With the following request body
 
