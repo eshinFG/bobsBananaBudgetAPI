@@ -1,7 +1,4 @@
-# bobsBananaBudgetAPI
-Bob's Banana Budget API
-
-Do you need a budget for your bananas at Bob's very specific grocery store? Look no further! Just download Bob's Banana Budget App and API now! Input a start date and the amount of days you'd like to budget for! You can even enter past dates to see how much you spent in the past!
+# NodeTestAPI
 
 What you will need.
 
@@ -14,10 +11,7 @@ npm version 6.4.1+
 3. npm install
 4. node server.js
 
-OPTIONAL: Download Bob's Banana Budget App here - https://github.com/eshinFG/bobsBananaBudgetAPP
 Follow directions to run the web App.
-
-If you're not using Bob's Banana Budget App, you can access the api by using your favorite API tool.
 
 Once the Node/Express API is being served to localhost:8080. You can send a post request to 
 
@@ -34,4 +28,5 @@ Most valid date formats are accepted, example: "2-22-2019", "2019-2-22", "Februa
 Number of days must be between 1 and 3650 days.
 
 Now even YOU can budget for bananas at Bob's very specific grocery store...TODAY!
-# bobsBananaBudgetAPI
+
+# NodeTestAPI
